@@ -9,3 +9,5 @@
 1) originServer.c is the original code of the server file, and originClient.c is the original code of the client file.
 2) myServer.c is my extended version of the server file using threads instead of processes.
 
+## visualization
+
