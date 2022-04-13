@@ -10,4 +10,6 @@
 2) myServer.c is my extended version of the server file using threads instead of processes.
 
 ## visualization
+![image](https://user-images.githubusercontent.com/82415308/163078468-3a80cecb-4483-45c9-82fa-52be4eb481cc.png)
+
 
